@@ -45,8 +45,8 @@
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>build-helper-maven-plugin</artifactId>
-	    <executions>
-  	      <execution>
+        <executions>
+          <execution>
             <id>attach-artifact</id>
             <phase>package</phase>
             <goals>
@@ -60,9 +60,9 @@
                 </artifact>
               </artifacts>
             </configuration>
-		  </execution>
-	    </executions>
-	  </plugin>
-	</plugins>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
   </build>
 </project>
