@@ -4,9 +4,22 @@
   <parent>		
     <groupId>org.openengsb</groupId>
 	<artifactId>openengsb-root</artifactId>
-    <version>26</version>	
+    <version>28</version>
   </parent>
-  
+  <name> OpenEngSB :: Wrapper : Apache.NMS.API</name>
+  <description>DLL wrapped</description>
+    <licenses>
+    <license>
+      <name>Apache 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <connection>scm:git:git://github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.API.git</connection>
+    <developerConnection>scm:git:git@github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.API.git</developerConnection>
+    <url>https://github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.API.git</url>
+  </scm>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openengsb.wrapped.csharp</groupId>
   <artifactId>Apache.NMS.API</artifactId>
