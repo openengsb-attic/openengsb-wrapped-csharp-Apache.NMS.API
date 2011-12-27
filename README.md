@@ -1,0 +1,1 @@
+Wrapper project for https://cwiki.apache.org/NMS/nms.html to bring the dlls to Maven Central
