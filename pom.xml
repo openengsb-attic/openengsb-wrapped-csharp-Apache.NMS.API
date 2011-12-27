@@ -32,7 +32,7 @@
   </licenses>
   <scm>
     <connection>scm:git:git://github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.API.git</connection>
-    <developerConnection>scm:git:git@github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.API.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:openengsb/openengsb-wrapped-csharp-Apache.NMS.API.git</developerConnection>
     <url>https://github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.API</url>
   </scm>
   <modelVersion>4.0.0</modelVersion>
