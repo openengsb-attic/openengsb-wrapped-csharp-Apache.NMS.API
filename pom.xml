@@ -15,13 +15,13 @@
   ~    limitations under the License.
   -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <parent>		
+  <parent>
     <groupId>org.openengsb</groupId>
     <artifactId>openengsb-root</artifactId>
-    <version>28</version>
+    <version>30</version>
   </parent>
-  <name>OpenEngSB :: Maven Wrapped CSharp DLL :: Apache.NMS.API</name>
-  <description>DLL wrapped</description>
+  <name>OpenEngSB :: Maven Wrapped CSharp DLL :: Apache.NMS</name>
+  <description>Wraper for the Apache NMS API lib for NPandy</description>
   <licenses>
     <license>
       <name>Apache 2.0</name>
@@ -36,8 +36,8 @@
   </scm>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openengsb.wrapped.csharp</groupId>
-  <artifactId>Apache.NMS.API</artifactId>
-  <version>1.5.0_2-SNAPSHOT</version>
+  <artifactId>Apache.NMS</artifactId>
+  <version>1.5.0_1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <build>
     <plugins>
